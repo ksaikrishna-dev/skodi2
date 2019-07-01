@@ -1,0 +1,29 @@
+mkdir user_restApi
+cd user_restApi
+npm init
+
+npm install
+npm start
+
+
+npm install express body-parser cors --save
+
+npm install --save sequelize
+npm install --save mysql2
+
+
+
+
+
+For Run the programs::
+---------------------------
+Angular 6 Client Run:# 
+ng serve -o
+
+nodejs RestApi Run:# 
+node server.js
+
+
+
+npm install express multer sequelize mysql2 --save
+

@@ -1,0 +1,180 @@
+npm -v
+npm install -g npm -windows -upgrade
+
+npm install --save
+
+
+****** Angular CLI (A command line interface for Angular) *************
+npm install -g @angular/cli
+ng new my-dream-app
+cd my-dream-app
+ng serve
+
+
+
+
+npm -v
+npm install -g npm -windows -upgrade
+npm install -g @angular/cli
+ng new projectName
+
+
+ng generate module CustomerDashboard
+
+ng generate component customer-dashboard/CustomerDashboard
+ng g c generatemail
+
+
+https://www.devglan.com/angular/angular-6-example
+
+
+step 1: 
+npm install -g @angular/cli
+
+ng new mail(projectName)
+
+cd mail (got project structure)
+
+
+=======================================================
+****** Generate Components ********
+ng g c batchprint
+
+****** Generate Services ********
+ng g service mailCenter --spec=false
+
+***** Generate Models **********
+ng generate class batchCenter --type=bar
+
+=======================================================
+
+npm install --save-dev @angular-devkit/build-angular
+npm install -g @angular/cli
+npm update -g @angular/cli
+
+ng update @angular/cli
+ng update @angular/core
+
+ng update
+
+ng serve
+
+
+
+npm uninstall -g @angular/cli
+npm cache clean
+npm install -g @angular/cli
+
+
+
+
+
+npm install --save-dev @angular-devkit/build-angular
+npm install -g @angular/cli
+
+npm install -g @angular/compiler-cli
+npm update -g @angular/cli
+
+//ng update
+ng serve
+
+cd src/app/mailCenter
+
+
+
+We analyzed your package.json, there are some packages to update:
+
+      Name                               Version                  Command to update
+     --------------------------------------------------------------------------------
+      @angular/cli                       6.1.5 -> 7.1.3           ng update @angular/cli
+      @angular/core                      6.1.10 -> 7.1.3          ng update @angular/core
+
+
+    There might be additional packages that are outdated.
+    Or run ng update --all to try to update all at the same time.
+	
+	
+	
+
+Following commands:
+
+npm install -g npm@latest
+npm install bootstrap --save
+npm install rxjs-compat --save
+npm install ng2-slim-loading-bar --save
+	
+	
+Access to XMLHttpRequest at 'http://localhost:1285/user/3' from origin 'http://localhost:4200' has been blocked by CORS policy: Response to preflight request doesn't pass access control check: It does not have HTTP ok status.
+	
+npm install -g corsproxy	
+
+
+
+
+===================== execute commands ========================
+
+
+
+npm install xlsx --save
+npm install file-saver --save
+
+npm install jspdf  --save
+npm install html2canvas --save
+
+
+Please run the below commands for Fusion Charts related to Reports Module.
+npm install angular-fusioncharts --save
+npm install fusioncharts --save
+
+Please run the below commands for beautify the data in UI in below formats.
+1.	Xml
+2.	Json
+3.	Css
+4.	sql
+npm install -S vkbeautify
+
+npm install ngx-google-places-autocomplete
+npm install ngx-spinner save
+npm install ngx-spinner --save
+
+npm i --save ng2-pdf-viewer
+=============================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
